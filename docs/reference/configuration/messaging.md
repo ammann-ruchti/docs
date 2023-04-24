@@ -192,7 +192,7 @@ Die von evcc bereitgestellten Variablen (siehe auch /api/state) müssen als rege
     - `vehicleOdometer` - Aktueller Kilometerstand des Fahrzeugs in km (_float_)
     - `vehiclePresent` - Indikator, evcc kann auf die Fahrzeugdaten zugreifen (_bool_)
     - `vehicleRange` - Aktuelle Reichweite des Fahrzeugs in km (_float_)
-    - `vehicleSoc` - Aktueller Füllstand der Fahrzeugbatterie in Prozent (_integer_)
+    - `vehicleSoc` - Aktueller Füllstand der Fahrzeugbatterie in Prozent (_float_)
 - Infos zur Einsparungseffizienz
   - `savingsAmount` - Summe der evcc-Einsparung (_float_)
   - `savingsEffectivePrice` - Kalkulierter Einsparungs-Preis (_float_)
